@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Zephyr RTOS: https://zephyrproject.org/
 
+LinkedIn: http://linkedin.com/in/andrei/
+
 Talks and articles
 ------------------
 
